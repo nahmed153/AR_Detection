@@ -6,6 +6,6 @@ https://github.com/nahmed153/AR_Detection/releases/tag/v1.0.0
 # ML Codes
 The ML codes for different pre-trained models (VGG-16, ResNet-18, GoogleNet and AlexNet are also available in the repository along with the code for  custom CNN model.
 
-Please note that these codes are made using Google Colab notebooks. Therefore, interested readers may be required to make slight adjustments according to their specific Python IDEs.
+Please note that these codes while provided here as a python file are originall made and used on Google Colab notebooks. Therefore, interested readers may be required to make slight adjustments according to their specific Python IDEs.
 
-Alternatively, the corresponding authors can also share their google drive folder containing the dataset alongwith the relevant google colab notebooks which can be run without requiring any modifications. 
+Alternatively, the corresponding authors if requested can also share their google drive folder containing the dataset alongwith the relevant google colab notebooks which can be run without requiring any modifications. 
